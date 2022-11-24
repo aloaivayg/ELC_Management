@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053250195793",
+    "firebase_url": "https://elc-management-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elc-management",
+    "storage_bucket": "elc-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053250195793:android:fae1ce8e3eceb684588370",
+        "android_client_info": {
+          "package_name": "com.example.elc_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053250195793-gjco1im2d6ravopppvnpg7v9d42cuqet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk4MivooxlIkKVj4NGlONR6IlAUxA9J4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053250195793-gjco1im2d6ravopppvnpg7v9d42cuqet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

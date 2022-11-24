@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable-v24/circle_stroke_white.xml" value="0.276" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable-v24/ic_register.xml" value="0.276" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable-v24/square.xml" value="0.135" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable/border_rectangle.xml" value="0.276" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable/circle.xml" value="0.2365" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable/custombutton.xml" value="0.2365" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/drawable/custombutton2.xml" value="0.2365" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/font/montseratt_bold.xml" value="0.24754168448054725" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout-w936dp/class_item.xml" value="0.1" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_account_register.xml" value="0.2" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_add_student.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_create_new_class.xml" value="0.18518518518518517" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_forget_password.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_home.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_login.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_main1.xml" value="0.25" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_main2.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_register.xml" value="0.2269021739130435" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_registion_form.xml" value="0.264" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_search.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_student_info.xml" value="0.26132246376811596" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_view_class_info.xml" value="0.22530996152201796" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_view_class_list.xml" value="0.22530996152201796" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/activity_view_class_student_list.xml" value="0.22530996152201796" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/class_item.xml" value="0.22530996152201796" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/searchable.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/searchable_configuration.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/student_info.xml" value="0.22274476271911073" />
+        <entry key="..\:/2021_2022/2022/cse441_mobile/week/ELC_Management/app/src/main/res/layout/student_item.xml" value="0.22274476271911073" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
